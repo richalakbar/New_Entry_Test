@@ -1,0 +1,22 @@
+@import "./base.css";
+@import "bootstrap";
+
+/* GLOBAL */
+body {
+  font-family: "Saira", sans-serif;
+}
+
+.border-btn {
+  border-radius: 5px;
+}
+
+.title-page {
+  padding-top: 25px;
+}
+
+.icon-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
